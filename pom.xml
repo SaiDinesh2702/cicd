@@ -37,7 +37,7 @@
 						<password>Password@1</password>
 						<applicationName>hello-world-maven-mulei</applicationName>
 						<workers>1</workers>
-						<workerType>Micro</workerType>
+						<workerType>MICRO</workerType>
 						<environment>Sandbox</environment>
 						<muleVersion>4.3.0</muleVersion>
 						<objectStoreV2>true</objectStoreV2>
