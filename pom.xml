@@ -34,7 +34,7 @@
 				<cloudHubDeployment>
 						<username>july08</username>
 						<password>Password@1</password>
-						<applicationName>jenkins-mule-cloudhub</applicationName>
+						<applicationName>jenkins-mule-cloudhub12345678</applicationName>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<environment>Sandbox</environment>
