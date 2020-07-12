@@ -35,7 +35,7 @@
 				        <uri>https://anypoint.mulesoft.com</uri>
 						<username>july08</username>
 						<password>Password@1</password>
-						<applicationName>hello-world-maven-mulei</applicationName>
+						<applicationName>jenkins-mule-cloudhub</applicationName>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 						<environment>Sandbox</environment>
